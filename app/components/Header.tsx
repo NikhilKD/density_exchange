@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 const Header = () => {
   return (
     <>
-      <div className='px-20 py-6 flex justify-between items-center fixed top-0 left-0 w-full'>
+      <div className='px-20 py-6 flex justify-between items-center fixed top-0 left-0 w-full bg-white z-50'>
         <div>
           <Image src="/logo.webp" alt="" className='rounded-xl' width={50} height={50}/>
         </div>
