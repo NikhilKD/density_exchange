@@ -3,8 +3,7 @@ import React from 'react'
 import HeroAnimation from '../animations/mobile.json'
 import { useLottie } from "lottie-react";
 import { Button } from "@/components/ui/button"
-import Image from 'next/image'
-import { Alert } from "flowbite-react";
+
 const Hero = () => {
     const options = {
         animationData: HeroAnimation,
@@ -13,7 +12,7 @@ const Hero = () => {
     const { View } = useLottie(options);
   return (
     <div className='py-28 flex justify-center'>
-        <div className='w-11/12 max-w-[1400px] rounded-[30px] h-[90vh] max-h-700px p-16 bg-[#eeebfe]'>
+        <div className='w-11/12 max-w-[1400px] rounded-[30px] h-[90vh] max-h-[800px] p-16 bg-[#eeebfe]'>
             <div className='flex'>
                 <div className='basis-6/12 flex flex-col justify-center'>
                     <div className='text-xl font-semibold pb-4'>Ahead app</div>
