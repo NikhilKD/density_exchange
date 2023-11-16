@@ -29,8 +29,35 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deployed on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## URL : https://density-exchange-8grv.vercel.app/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Screenshots of the components
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/b389207b-02a5-4a3f-b038-6f26a92ea05e)
+
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/6c8e925c-2a4d-46f4-82af-1df4edbbf773)
+
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/e8192077-3b01-4580-b654-5110aa178361)
+
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/0e50897e-9d5f-4088-b6f0-62d98814ff78)
+
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/7a47d81b-de74-48eb-a4c1-ff695b4e1cfa)
+
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/77f8d11d-0fac-44f6-9b5d-361d843e3c26)
+
+
+![image](https://github.com/NikhilKD/density_exchange/assets/72371791/37c265c6-4df0-4a0a-8540-c9c7b4679ba5)
+
+
+
+
+
+
+
