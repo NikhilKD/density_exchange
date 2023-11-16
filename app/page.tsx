@@ -7,6 +7,7 @@ import About from './components/About'
 import Fact2 from './components/Fact2'
 import Steps from './components/Steps'
 import Test from './components/Test'
+import WorkWithUs from './components/WorkWithUs'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Fact2 />
       <Steps />
       <Test />
+      <WorkWithUs />
     </>
   )
 }
