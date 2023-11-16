@@ -6,6 +6,7 @@ import SliderHome from './components/SliderHome'
 import About from './components/About'
 import Fact2 from './components/Fact2'
 import Steps from './components/Steps'
+import Test from './components/Test'
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <About />
       <Fact2 />
       <Steps />
+      <Test />
     </>
   )
 }
