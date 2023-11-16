@@ -8,6 +8,7 @@ import Fact2 from './components/Fact2'
 import Steps from './components/Steps'
 import Test from './components/Test'
 import WorkWithUs from './components/WorkWithUs'
+import Vacancy from './components/Vacancy'
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <Steps />
       <Test />
       <WorkWithUs />
+      <Vacancy />
     </>
   )
 }
