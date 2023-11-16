@@ -5,6 +5,7 @@ import Fact from './components/Fact'
 import SliderHome from './components/SliderHome'
 import About from './components/About'
 import Fact2 from './components/Fact2'
+import Steps from './components/Steps'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <SliderHome />
       <About />
       <Fact2 />
+      <Steps />
     </>
   )
 }

@@ -12,7 +12,7 @@ const Hero = () => {
     const { View } = useLottie(options);
   return (
     <div className='py-28 flex justify-center'>
-        <div className='w-11/12 max-w-[1400px] rounded-[30px] h-[90vh] max-h-[800px] p-16 bg-[#eeebfe]'>
+        <div className='w-11/12 max-w-[1400px] rounded-[30px] h-[90vh] min-h-[800px] p-16 bg-[#eeebfe]'>
             <div className='flex'>
                 <div className='basis-6/12 flex flex-col justify-center'>
                     <div className='text-xl font-semibold pb-4'>Ahead app</div>
