@@ -35,29 +35,41 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Screenshots of the components
 
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/b389207b-02a5-4a3f-b038-6f26a92ea05e)
 
 
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/6c8e925c-2a4d-46f4-82af-1df4edbbf773)
+![Screenshot 2023-11-16 162758](https://github.com/NikhilKD/density_exchange/assets/72371791/75ed9e16-4f81-47d8-8e98-259dac96eede)
 
 
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/e8192077-3b01-4580-b654-5110aa178361)
+
+![Screenshot 2023-11-16 162719](https://github.com/NikhilKD/density_exchange/assets/72371791/211f457d-d5b9-48c5-ab6c-acf4d137aa8a)
 
 
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/0e50897e-9d5f-4088-b6f0-62d98814ff78)
 
-
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/7a47d81b-de74-48eb-a4c1-ff695b4e1cfa)
-
-
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/77f8d11d-0fac-44f6-9b5d-361d843e3c26)
-
-
-![image](https://github.com/NikhilKD/density_exchange/assets/72371791/37c265c6-4df0-4a0a-8540-c9c7b4679ba5)
+![Screenshot 2023-11-16 162649](https://github.com/NikhilKD/density_exchange/assets/72371791/9c3210af-3994-465a-837c-63632255adb5)
 
 
 
 
+![Screenshot 2023-11-16 162628](https://github.com/NikhilKD/density_exchange/assets/72371791/60a658ee-6c14-40d1-9ff9-dbe9ffa4af84)
 
 
 
+
+![Screenshot 2023-11-16 162554](https://github.com/NikhilKD/density_exchange/assets/72371791/8963aaa1-6abe-440b-abcf-e67d02a18533)
+
+
+
+![Screenshot 2023-11-16 162515](https://github.com/NikhilKD/density_exchange/assets/72371791/ccee58b5-d258-4957-ad7b-8aea4d7d7da9)
+
+
+
+
+![Screenshot 2023-11-16 162440](https://github.com/NikhilKD/density_exchange/assets/72371791/d4b74156-b845-4b31-bae1-af56d80061f6)
+
+
+
+![Screenshot 2023-11-16 162358](https://github.com/NikhilKD/density_exchange/assets/72371791/878abf5d-f36d-4219-acdb-912de7450bc9)
+
+
+
+![Screenshot 2023-11-16 005936](https://github.com/NikhilKD/density_exchange/assets/72371791/abd5ad11-2d4f-476f-8e00-82c0a1f49758)
