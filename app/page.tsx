@@ -9,6 +9,7 @@ import Steps from './components/Steps'
 import Test from './components/Test'
 import WorkWithUs from './components/WorkWithUs'
 import Vacancy from './components/Vacancy'
+import Footer from './components/Footer'
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <Test />
       <WorkWithUs />
       <Vacancy />
+      <Footer />
     </>
   )
 }
