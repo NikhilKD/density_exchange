@@ -3,6 +3,7 @@ import React from 'react'
 import HeroAnimation from '../animations/mobile.json'
 import { useLottie } from "lottie-react";
 import { Button } from "@/components/ui/button"
+import 'animate.css';
 
 const Hero = () => {
     const options = {

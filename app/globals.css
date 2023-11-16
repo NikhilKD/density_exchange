@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; 
 
 @layer base {
   :root {
@@ -74,7 +74,7 @@
   body {
     @apply bg-background text-foreground;
   }
-}
+} 
 
 .sign{
   font-family: 'Great Vibes'
@@ -97,4 +97,43 @@
 
 ul{
   list-style: disc!important;
+}
+.hover_slider{
+  background-repeat: repeat-x;
+}
+.hover_slider:hover > .keen-slider__slide {
+  /* position: relative;
+  left:-1000px;
+  transition-duration: 5s; */
+  animation-name: slide;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  position: relative;
+  animation-fill-mode: both;
+}
+@keyframes slide{
+  0%{
+    left:-100px;
+  }
+  100%{
+    left:-350px;
+  }
+
+}
+.cards{
+  height:200px;
+  overflow: hidden;
+  transition: 0.5s;
+  transition-timing-function: ease-in-out;
+}
+
+
+.cards:hover{
+  height: 300px;
+  overflow: visible;
+  background-color: #ffc636;
+
+}
+.parent_card{
+  height:500px
 }

@@ -8,7 +8,7 @@ const Test = () => {
             <div className='text-5xl font-bold pb-8'>Before you get started</div>
             <div className='text-2xl font-medium pb-8 text-gray-800 w-8/12 text-center'>"We won't share your answers with anyone (and won't ever tell you which friends said what about you)"</div>
             <div className='text-xl font-medium pb-10'>with love, <span className='sign text-5xl'>Team alod</span></div>
-            <Button className='mb-4'>Start a test</Button>
+            <Button data-aos="fade-up" className='mb-4'>Start a test</Button>
             <div className='text-gray-600'>Take only 5 minutes</div>
         </div>
     </div>

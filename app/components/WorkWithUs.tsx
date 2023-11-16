@@ -5,8 +5,8 @@ const WorkWithUs = () => {
     <div className='py-32 flex justify-center'>
         <div className='w-11/12 max-w-[1400px] rounded-[30px] p-16 bg-[#f3f1ff]'>
             <div className='flex justify-between items-center pb-16'>
-                <div className='text-5xl font-bold'>Work with us</div>
-                <div className='text-[#6541f1] text-5xl font-bold '>ahead</div>
+                <div data-aos="fade-right" className='text-5xl font-bold'>Work with us</div>
+                <div data-aos="fade-left" className='text-[#6541f1] text-5xl font-bold '>ahead</div>
             </div>
             <div className='flex'>
                 <div className="basis-6/12 pe-10">
